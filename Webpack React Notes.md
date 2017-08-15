@@ -164,7 +164,7 @@ Now can access **bundle.js** without any problems !
 
 So the final *webpack.config.js* is:
 
-> ```json
+> ```javascript
 > var path = require('path');
 > var webpack = require('webpack');
 >
